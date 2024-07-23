@@ -3,7 +3,7 @@
 
 The To-Do List App project is intended to create a robust and user-friendly application to assist individuals in successfully managing their daily activities. The project's primary goal was to design a multifunctional tool that not only helps with work management but also boosts productivity with a streamlined user interface and intuitive functionalities. The To-Do List application enables to manage the creation, deletion, edition, and arrangement of tasks. 
 
-1.1.	Problem Statement
+  1.1.	Problem Statement
 
 Good time and task management are critical to personal and professional success in today's fast-paced environment. Traditional task management solutions frequently fall short of meeting the flexibility and accessibility needs of current users. While various digital solutions are available, their usability, feature set, and accessibility differ substantially, leaving a gap in user satisfaction and functionality. Our To-Do List App aims to bridge this gap by providing a comprehensive solution combining simplicity and robust task management capabilities. The program allows users to create, organize, and monitor projects and set priorities, due dates, and reminders, making it suitable for anybody from students to professionals seeking an effective way to keep track of their duties.
 
